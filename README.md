@@ -76,7 +76,7 @@ Cada tópico contém 10 perguntas de múltipla escolha com 4 alternativas. O jog
 
 ## Cálculo do Score e Dicas
 
--   **Score**: O sistema soma 1 ponto para cada resposta correta.
+-   **Score**: O sistema soma 10 ponto para cada resposta correta.
 -   **Dicas**: Durante o quiz, se o jogador encontrar dificuldades, o sistema pode exibir dicas, fornecendo uma breve explicação para ajudá-lo a escolher a resposta correta.
 
 ## Execução do Sistema
